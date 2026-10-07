@@ -13,6 +13,8 @@ Python과 웹 개발을 배우며, 반복되는 일을 줄이는 도구를 만�
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ## Selected Projects
 
