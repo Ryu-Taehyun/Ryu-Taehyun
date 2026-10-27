@@ -1,11 +1,11 @@
 # Ryu Taehyun
 
-**Python · Browser Automation · Web**
+**Python · Automation · Socket Programming**
 
-Python과 웹 개발을 배우며, 반복되는 일을 줄이는 도구를 만들고 있습니다.
-작은 프로젝트를 직접 구현하고, 배운 내용을 코드로 기록합니다.
+Python으로 반복 작업을 자동화하고, 소켓 통신과 화면 처리 기능을 직접 구현하며 배우고 있습니다.
+작은 프로젝트를 실행 가능한 도구로 만들고, 배운 내용과 실행 방법을 함께 기록합니다.
 
-[Projects](https://github.com/Ryu-Taehyun?tab=repositories) · [Learning Notes](https://github.com/Ryu-Taehyun/agent-toolkit)
+[프로젝트 둘러보기](https://github.com/Ryu-Taehyun?tab=repositories)
 
 ## Tech
 
@@ -18,6 +18,14 @@ Python과 웹 개발을 배우며, 반복되는 일을 줄이는 도구를 만�
 
 ## Selected Projects
 
+### [Remote-Desktop](https://github.com/Ryu-Taehyun/Remote-Desktop)
+
+Python 소켓 통신과 화면 캡처·전송을 실습하는 프로젝트입니다.
+
+- TCP 기반 JSON 명령 교환: `PING`, `TIME`, `EXIT`
+- MSS·OpenCV·NumPy로 화면을 캡처하고 JPEG로 전송·표시
+- Windows에서 Bash 실행기로 설치와 예제 5개 실행 자동화
+
 ### [Auto-Litural](https://github.com/Ryu-Taehyun/Auto-Litural)
 
 아침·마무리 리추얼의 반복 입력을 도와주는 브라우저 자동화 도구입니다.
@@ -26,16 +34,10 @@ Python과 웹 개발을 배우며, 반복되는 일을 줄이는 도구를 만�
 - CSV 파일에서 문장을 선택해 입력
 - 입력 완료 후 사용자가 내용을 확인하고 직접 저장
 
-### [agent-toolkit](https://github.com/Ryu-Taehyun/agent-toolkit)
-
-Python 기초와 API 활용을 학습하며 작성한 Jupyter Notebook 모음입니다.
-
-- 조건문·반복문·함수와 파일·CSV 처리
-- 예외 처리와 로깅
-- JSON 데이터와 API 요청 실습
-
 ## Learning
 
 - Python으로 실용적인 자동화 도구 만들기
+- TCP 소켓과 길이 헤더를 이용한 데이터 송수신 이해하기
+- 화면 캡처·이미지 변환·실시간 표시 흐름 익히기
 - API 요청과 데이터 처리 흐름 이해하기
 - HTML로 웹의 기본 구조 익히기
