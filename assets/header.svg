@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">Ryu Taehyun — Python, Automation, Networking</title>
+  <desc id="desc">Purple developer profile banner with a terminal illustration.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#100e20"/><stop offset="1" stop-color="#23173d"/></linearGradient>
+    <linearGradient id="accent"><stop stop-color="#c4b5fd"/><stop offset="1" stop-color="#8b5cf6"/></linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#c4b5fd" stroke-opacity=".055"/></pattern>
+  </defs>
+  <rect width="1200" height="340" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="340" rx="24" fill="url(#grid)"/>
+  <circle cx="1130" cy="50" r="210" fill="#8b5cf6" opacity=".07"/>
+  <path d="M55 65H95" stroke="url(#accent)" stroke-width="4" stroke-linecap="round"/>
+  <text x="55" y="110" font-family="Consolas,monospace" font-size="14" letter-spacing="4" fill="#bca4f6">CODE / BUILD / LEARN</text>
+  <text x="51" y="184" font-family="Segoe UI,Arial,sans-serif" font-size="66" font-weight="750" letter-spacing="-2" fill="#f5f3ff">RYU TAEHYUN<tspan fill="#a78bfa">.</tspan></text>
+  <text x="55" y="224" font-family="Segoe UI,Arial,sans-serif" font-size="20" fill="#c7bfd9">Small projects. Useful tools. Learning by building.</text>
+  <g font-family="Consolas,monospace" font-size="12" letter-spacing="1.5" fill="#dfd3ff">
+    <rect x="55" y="258" width="102" height="30" rx="15" fill="#a78bfa" fill-opacity=".12" stroke="#a78bfa" stroke-opacity=".3"/>
+    <text x="78" y="278">PYTHON</text>
+    <rect x="169" y="258" width="143" height="30" rx="15" fill="#a78bfa" fill-opacity=".12" stroke="#a78bfa" stroke-opacity=".3"/>
+    <text x="189" y="278">AUTOMATION</text>
+    <rect x="324" y="258" width="143" height="30" rx="15" fill="#a78bfa" fill-opacity=".12" stroke="#a78bfa" stroke-opacity=".3"/>
+    <text x="344" y="278">NETWORKING</text>
+  </g>
+  <g transform="translate(804 82)">
+    <rect width="335" height="192" rx="14" fill="#100e1b" stroke="#69528f" stroke-opacity=".7"/>
+    <path d="M0 37H335" stroke="#433452"/>
+    <circle cx="21" cy="19" r="4" fill="#a78bfa"/><circle cx="37" cy="19" r="4" fill="#75628e"/><circle cx="53" cy="19" r="4" fill="#493d5a"/>
+    <text x="22" y="77" font-family="Consolas,monospace" font-size="16" fill="#a78bfa">&gt;&gt; python build.py</text>
+    <text x="22" y="111" font-family="Consolas,monospace" font-size="14" fill="#d6cce8">[01] automate the routine</text>
+    <text x="22" y="139" font-family="Consolas,monospace" font-size="14" fill="#d6cce8">[02] understand the system</text>
+    <text x="22" y="167" font-family="Consolas,monospace" font-size="14" fill="#a78bfa">[03] keep building _</text>
+  </g>
+</svg>
