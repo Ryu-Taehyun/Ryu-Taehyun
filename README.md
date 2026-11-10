@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Ryu-Taehyun?tab=repositories"><img src="https://img.shields.io/badge/Repositories-8-8B5CF6?style=flat-square&amp;logo=github&amp;logoColor=white" alt="Repositories" /></a>
+  <a href="https://github.com/Ryu-Taehyun?tab=repositories"><img src="https://img.shields.io/badge/Repositories-9-8B5CF6?style=flat-square&amp;logo=github&amp;logoColor=white" alt="Repositories" /></a>
   <a href="https://github.com/Ryu-Taehyun/security-agent-toolkit"><img src="https://img.shields.io/badge/Focus-Security_%26_Automation-6D28D9?style=flat-square" alt="Focus" /></a>
   <img src="https://img.shields.io/badge/Updated-2026.11-A78BFA?style=flat-square" alt="Updated" />
 </p>
@@ -15,6 +15,7 @@
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="SQL" />
@@ -24,6 +25,7 @@
 ### 🛠 Tools & Libraries
 
 <p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&amp;logo=fastapi&amp;logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square" alt="Playwright" />
   <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&amp;logo=pandas&amp;logoColor=white" alt="pandas" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&amp;logo=numpy&amp;logoColor=white" alt="NumPy" />
@@ -56,6 +58,7 @@
 
 | Project | What I built | Stack |
 | :--- | :--- | :--- |
+| **[Remote-Desktop-TS ↗](https://github.com/Ryu-Taehyun/Remote-Desktop-TS)** | 웹 기반 원격 데스크톱. 호스트 앱(tkinter, Windows `.exe`)이 화면을 WebSocket으로 실시간 전송(약 30fps)하고, 브라우저에서 로그인 후 접속 코드로 화면을 보고 원격 제어합니다. 송수신 타입은 Pydantic·zod로 고정했습니다. | `Python` `FastAPI` `TypeScript` `PostgreSQL` `WebSocket` |
 | **[Remote-Desktop ↗](https://github.com/Ryu-Taehyun/Remote-Desktop)** | TCP 소켓으로 명령을 교환하고, 화면을 캡처해 JPEG로 전송·표시하며 통신 흐름을 실습합니다. | `Python` `Socket` `OpenCV` `NumPy` |
 | **[Algorithm-Lab ↗](https://github.com/Ryu-Taehyun/Algorithm-Lab)** | 이진 탐색(반복·재귀) 등 기본 알고리즘을 직접 구현하며 정리합니다. | `Python` |
 
@@ -72,8 +75,8 @@
     </td>
     <td width="33%" valign="top">
       <b>02 / Systems &amp; Data</b><br /><br />
-      TCP 소켓, 화면 캡처와 이미지 변환을 구현하고,
-      API 요청부터 데이터 처리까지 이어지는 흐름을 배웁니다.
+      TCP 소켓과 WebSocket, 화면 캡처와 이미지 변환을 구현하고,
+      API·DB 설계부터 실시간 데이터 처리까지 이어지는 흐름을 배웁니다.
     </td>
     <td width="33%" valign="top">
       <b>03 / Security</b><br /><br />
