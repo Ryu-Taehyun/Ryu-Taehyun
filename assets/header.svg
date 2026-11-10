@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
-  <title id="title">Ryu Taehyun — Python, Automation, Networking</title>
+  <title id="title">Ryu Taehyun — Python, Automation, Networking, Security</title>
   <desc id="desc">Purple developer profile banner with a terminal illustration.</desc>
   <defs>
     <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#100e20"/><stop offset="1" stop-color="#23173d"/></linearGradient>
@@ -20,6 +20,8 @@
     <text x="189" y="278">AUTOMATION</text>
     <rect x="324" y="258" width="143" height="30" rx="15" fill="#a78bfa" fill-opacity=".12" stroke="#a78bfa" stroke-opacity=".3"/>
     <text x="344" y="278">NETWORKING</text>
+    <rect x="479" y="258" width="125" height="30" rx="15" fill="#a78bfa" fill-opacity=".12" stroke="#a78bfa" stroke-opacity=".3"/>
+    <text x="501" y="278">SECURITY</text>
   </g>
   <g transform="translate(804 82)">
     <rect width="335" height="192" rx="14" fill="#100e1b" stroke="#69528f" stroke-opacity=".7"/>
