@@ -45,7 +45,6 @@
 | Project | What I built | Stack |
 | :--- | :--- | :--- |
 | **[security-agent-toolkit ↗](https://github.com/Ryu-Taehyun/security-agent-toolkit)** | 보안 실습 모음. RBAC 접근 제어·권한 검토, 로그 기반 이상 탐지와 상관 분석, SOAR 플레이북 대응, 제로트러스트 네트워크 설계를 Python으로 구현합니다. | `Python` `pandas` `Jupyter` |
-| **[choi-bujang-secret-vault ↗](https://github.com/Ryu-Taehyun/choi-bujang-secret-vault)** | 메모 보관 웹앱을 배포하고 단계별로 방어하는 실습. 인증·세션 보호, 공격 점검, 탐지(XDR)와 복구 흐름을 테스트와 함께 만듭니다. | `JavaScript` `Node.js` `Supabase` `Vercel` |
 | **[Fernet-Algorithm ↗](https://github.com/Ryu-Taehyun/Fernet-Algorithm)** | 파일 암호화·복호화 CLI. Fernet과 AES-256-GCM, 비밀번호 기반 키(PBKDF2)를 지원합니다. | `Python` `cryptography` |
 
 ### ⚙️ Automation
