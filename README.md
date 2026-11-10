@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="./assets/header.svg" alt="Ryu Taehyun — Python, Automation, Networking, Security" width="100%" />
-</p>
-
-<p align="center">
   <b>반복 작업은 자동화하고, 궁금한 동작은 직접 구현하며 배웁니다.</b><br />
   Python으로 작은 프로젝트를 실행 가능한 도구로 만들고, 보안·네트워크 실습과 배운 내용을 함께 기록합니다.
 </p>
