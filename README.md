@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Ryu-Taehyun?tab=repositories"><img src="https://img.shields.io/badge/Repositories-9-8B5CF6?style=flat-square&amp;logo=github&amp;logoColor=white" alt="Repositories" /></a>
+  <a href="https://github.com/Ryu-Taehyun?tab=repositories"><img src="https://img.shields.io/badge/Repositories-10-8B5CF6?style=flat-square&amp;logo=github&amp;logoColor=white" alt="Repositories" /></a>
   <a href="https://github.com/Ryu-Taehyun/security-agent-toolkit"><img src="https://img.shields.io/badge/Focus-Security_%26_Automation-6D28D9?style=flat-square" alt="Focus" /></a>
   <img src="https://img.shields.io/badge/Updated-2026.11-A78BFA?style=flat-square" alt="Updated" />
 </p>
@@ -31,6 +31,8 @@
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&amp;logo=numpy&amp;logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&amp;logo=opencv&amp;logoColor=white" alt="OpenCV" />
   <img src="https://img.shields.io/badge/cryptography-3A3A3A?style=flat-square" alt="cryptography" />
+  <img src="https://img.shields.io/badge/pygame-2B5B84?style=flat-square" alt="pygame" />
+  <img src="https://img.shields.io/badge/yt--dlp-FF0000?style=flat-square&amp;logo=youtube&amp;logoColor=white" alt="yt-dlp" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&amp;logo=vercel&amp;logoColor=white" alt="Vercel" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&amp;logo=jupyter&amp;logoColor=white" alt="Jupyter" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&amp;logo=linux&amp;logoColor=black" alt="Linux" />
@@ -61,6 +63,12 @@
 | **[Remote-Desktop-TS ↗](https://github.com/Ryu-Taehyun/Remote-Desktop-TS)** | 웹 기반 원격 데스크톱. 호스트 앱(tkinter, Windows `.exe`)이 화면을 WebSocket으로 실시간 전송(약 30fps)하고, 브라우저에서 로그인 후 접속 코드로 화면을 보고 원격 제어합니다. 송수신 타입은 Pydantic·zod로 고정했습니다. | `Python` `FastAPI` `TypeScript` `PostgreSQL` `WebSocket` |
 | **[Remote-Desktop ↗](https://github.com/Ryu-Taehyun/Remote-Desktop)** | TCP 소켓으로 명령을 교환하고, 화면을 캡처해 JPEG로 전송·표시하며 통신 흐름을 실습합니다. | `Python` `Socket` `OpenCV` `NumPy` |
 | **[Algorithm-Lab ↗](https://github.com/Ryu-Taehyun/Algorithm-Lab)** | 이진 탐색(반복·재귀) 등 기본 알고리즘을 직접 구현하며 정리합니다. | `Python` |
+
+### 🎞 Media & Graphics
+
+| Project | What I built | Stack |
+| :--- | :--- | :--- |
+| **[ASCII-Animation ↗](https://github.com/Ryu-Taehyun/ASCII-Animation)** | 영상 파일이나 유튜브 링크를 터미널에서 흑백 ASCII 아트 애니메이션으로 재생합니다. 소리도 함께 재생하고, 화면이 늦어지면 프레임을 건너뛰어 소리와 싱크를 맞춥니다. | `Python` `OpenCV` `NumPy` `pygame` `yt-dlp` |
 
 ---
 
