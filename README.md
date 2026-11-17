@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Ryu-Taehyun?tab=repositories"><img src="https://img.shields.io/badge/Repositories-10-8B5CF6?style=flat-square&amp;logo=github&amp;logoColor=white" alt="Repositories" /></a>
+  <a href="https://github.com/Ryu-Taehyun?tab=repositories"><img src="https://img.shields.io/badge/Repositories-11-8B5CF6?style=flat-square&amp;logo=github&amp;logoColor=white" alt="Repositories" /></a>
   <a href="https://github.com/Ryu-Taehyun/security-agent-toolkit"><img src="https://img.shields.io/badge/Focus-Security_%26_Automation-6D28D9?style=flat-square" alt="Focus" /></a>
   <img src="https://img.shields.io/badge/Updated-2026.11-A78BFA?style=flat-square" alt="Updated" />
 </p>
@@ -26,6 +26,8 @@
 
 <p>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&amp;logo=fastapi&amp;logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/PySide6-41CD52?style=flat-square&amp;logo=qt&amp;logoColor=white" alt="PySide6 (Qt)" />
+  <img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square" alt="Nmap" />
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square" alt="Playwright" />
   <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&amp;logo=pandas&amp;logoColor=white" alt="pandas" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&amp;logo=numpy&amp;logoColor=white" alt="NumPy" />
@@ -46,6 +48,7 @@
 
 | Project | What I built | Stack |
 | :--- | :--- | :--- |
+| **[SysGuard-Defender ↗](https://github.com/Ryu-Taehyun/SysGuard-Defender)** | 실시간 시스템·보안 모니터링 데스크톱 앱. CPU·RAM·GPU·네트워크 사용량을 실시간·SQL 기록 막대 그래프로 보여 주고, DLL·DNS 하이재킹, 과도한 패킷 전송, Nmap 위험 포트 개방, ARP 스푸핑 등 이상징후 10종을 탐지해 DB·로그에 기록합니다. 로그인은 TypeScript 서비스로 분리하고, 탐지 기준과 제외 대상은 화면에서 바꾸며, Windows `.exe`로 빌드합니다. | `Python` `FastAPI` `TypeScript` `PostgreSQL` `PySide6` `Nmap` |
 | **[security-agent-toolkit ↗](https://github.com/Ryu-Taehyun/security-agent-toolkit)** | 보안 실습 모음. RBAC 접근 제어·권한 검토, 로그 기반 이상 탐지와 상관 분석, SOAR 플레이북 대응, 제로트러스트 네트워크 설계를 Python으로 구현합니다. | `Python` `pandas` `Jupyter` |
 | **[Fernet-Algorithm ↗](https://github.com/Ryu-Taehyun/Fernet-Algorithm)** | 파일 암호화·복호화 CLI. Fernet과 AES-256-GCM, 비밀번호 기반 키(PBKDF2)를 지원합니다. | `Python` `cryptography` |
 
@@ -89,7 +92,7 @@
     <td width="33%" valign="top">
       <b>03 / Security</b><br /><br />
       접근 제어·이상 탐지·사고 대응을 코드로 옮기고,
-      암호화와 웹 서비스 방어를 직접 실습합니다.
+      OS·네트워크 이상징후 탐지와 암호화, 웹 서비스 방어를 직접 실습합니다.
     </td>
   </tr>
 </table>
