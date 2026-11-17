@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Ryu-Taehyun?tab=repositories"><img src="https://img.shields.io/badge/Repositories-11-8B5CF6?style=flat-square&amp;logo=github&amp;logoColor=white" alt="Repositories" /></a>
+  <a href="https://github.com/Ryu-Taehyun?tab=repositories"><img src="https://img.shields.io/badge/Repositories-12-8B5CF6?style=flat-square&amp;logo=github&amp;logoColor=white" alt="Repositories" /></a>
   <a href="https://github.com/Ryu-Taehyun/security-agent-toolkit"><img src="https://img.shields.io/badge/Focus-Security_%26_Automation-6D28D9?style=flat-square" alt="Focus" /></a>
   <img src="https://img.shields.io/badge/Updated-2026.11-A78BFA?style=flat-square" alt="Updated" />
 </p>
@@ -26,6 +26,10 @@
 
 <p>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&amp;logo=fastapi&amp;logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&amp;logo=threedotjs&amp;logoColor=white" alt="Three.js" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&amp;logo=vite&amp;logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&amp;logo=sqlite&amp;logoColor=white" alt="SQLite" />
   <img src="https://img.shields.io/badge/PySide6-41CD52?style=flat-square&amp;logo=qt&amp;logoColor=white" alt="PySide6 (Qt)" />
   <img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square" alt="Nmap" />
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square" alt="Playwright" />
@@ -66,6 +70,12 @@
 | **[Remote-Desktop-TS ↗](https://github.com/Ryu-Taehyun/Remote-Desktop-TS)** | 웹 기반 원격 데스크톱. 호스트 앱(tkinter, Windows `.exe`)이 화면을 WebSocket으로 실시간 전송(약 30fps)하고, 브라우저에서 로그인 후 접속 코드로 화면을 보고 원격 제어합니다. 송수신 타입은 Pydantic·zod로 고정했습니다. | `Python` `FastAPI` `TypeScript` `PostgreSQL` `WebSocket` |
 | **[Remote-Desktop ↗](https://github.com/Ryu-Taehyun/Remote-Desktop)** | TCP 소켓으로 명령을 교환하고, 화면을 캡처해 JPEG로 전송·표시하며 통신 흐름을 실습합니다. | `Python` `Socket` `OpenCV` `NumPy` |
 | **[Algorithm-Lab ↗](https://github.com/Ryu-Taehyun/Algorithm-Lab)** | 이진 탐색(반복·재귀) 등 기본 알고리즘을 직접 구현하며 정리합니다. | `Python` |
+
+### 🎮 Games & 3D
+
+| Project | What I built | Stack |
+| :--- | :--- | :--- |
+| **[ai-escape-room ↗](https://github.com/Ryu-Taehyun/ai-escape-room)** | AI가 퍼즐을 만드는 3D 1인칭 협동 방탈출 (4인 팀·2주). 공포·이집트 테마에서 방 안 단서를 직접 조사해 암호를 풀고, 기억력·전선 연결·타이밍 미니게임으로 열쇠를 얻어 문을 엽니다. 방 개수(2~5)와 제한 시간(30~120분)을 고르고, WebSocket으로 팀원 위치·채팅을 공유하며, 지도에서 클리어·잠김 상태를 확인합니다. 관리자는 인게임에서 방 컨셉·퍼즐·단서를 편집하거나 AI로 생성합니다. | `TypeScript` `React` `Three.js` `FastAPI` `SQLite` `WebSocket` |
 
 ### 🎞 Media & Graphics
 
