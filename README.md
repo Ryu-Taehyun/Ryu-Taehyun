@@ -75,7 +75,7 @@
 
 | Project | What I built | Stack |
 | :--- | :--- | :--- |
-| **[ai-escape-room ↗](https://github.com/Ryu-Taehyun/ai-escape-room)** | AI가 퍼즐을 만드는 3D 1인칭 협동 방탈출 (4인 팀·2주). 공포·이집트 테마에서 방 안 단서를 직접 조사해 암호를 풀고, 기억력·전선 연결·타이밍 미니게임으로 열쇠를 얻어 문을 엽니다. 방 개수(2~5)와 제한 시간(30~120분)을 고르고, WebSocket으로 팀원 위치·채팅을 공유하며, 지도에서 클리어·잠김 상태를 확인합니다. 관리자는 인게임에서 방 컨셉·퍼즐·단서를 편집하거나 AI로 생성합니다. | `TypeScript` `React` `Three.js` `FastAPI` `SQLite` `WebSocket` |
+| **[ai-escape-room ↗](https://github.com/Ryu-Taehyun/ai-escape-room)** | AI가 퍼즐을 만드는 3D 1인칭 협동 방탈출 (4인 팀·2주). 공포(감염된 데이터센터)·이집트(파라오의 피라미드) 테마에서 손전등·횃불로 방 안 단서를 직접 조사해 암호를 풀고, 기억력·전선 연결·타이밍 미니게임으로 열쇠를 얻어 문을 엽니다. 텍스처와 사운드는 이미지·음원 없이 코드로 생성하고, 정전·지진 이벤트와 걸음 흔들림·관성·스태미나로 1인칭 현실감을 더했습니다. 방 개수(2~5)와 제한 시간(30~120분)을 고르고, WebSocket으로 팀원 위치·채팅을 공유하며, 관리자는 인게임에서 방·퍼즐·단서를 편집하거나 AI로 생성합니다. | `TypeScript` `React` `Three.js` `Web Audio` `FastAPI` `SQLite` `WebSocket` |
 
 ### 🎞 Media & Graphics
 
