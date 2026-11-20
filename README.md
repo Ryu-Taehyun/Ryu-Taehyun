@@ -83,6 +83,12 @@
 | :--- | :--- | :--- |
 | **[ASCII-Animation ↗](https://github.com/Ryu-Taehyun/ASCII-Animation)** | 영상 파일이나 유튜브 링크를 터미널에서 흑백 ASCII 아트 애니메이션으로 재생합니다. 소리도 함께 재생하고, 화면이 늦어지면 프레임을 건너뛰어 소리와 싱크를 맞춥니다. | `Python` `OpenCV` `NumPy` `pygame` `yt-dlp` |
 
+### 🧠 Claude Skills
+
+| Project | What I built | Stack |
+| :--- | :--- | :--- |
+| **[Skills ↗](https://github.com/Ryu-Taehyun/Skills)** | 직접 만든 Claude 스킬 모음. `code-checker`는 민감정보·중복 로직·예외/비동기 처리를 점검하고 로드맵과 성숙도 점수를 보고합니다. `github-upload`는 점검을 통과한 프로젝트를 승인 후 README·`.gitignore`와 함께 GitHub에 게시합니다. | `Claude Skills` `Markdown` `Git` |
+
 ---
 
 ### ↗ Learning by building
